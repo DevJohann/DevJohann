@@ -1,6 +1,8 @@
+<iframe src="https://giphy.com/embed/mYhd1NHQkHmZLiqN7M" width="480" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sleepinggiant-deal-with-it-sgm-sleeping-giant-media-mYhd1NHQkHmZLiqN7M">via GIPHY</a></p>
+
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
 
-<p>Lemme introduce myself</p>
+<p>Firstly i'd like to thank you for visiting my profile, i hope you find it interesting</p>
 
 <!--
 Here are some ideas to get you started:
