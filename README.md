@@ -4,7 +4,7 @@
 https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="150"/>
 </div>
 
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
