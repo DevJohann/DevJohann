@@ -35,6 +35,13 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 
 ### 👨‍💻 About me:
 
+- I'm a software engineering student from Colombia 🇨🇴
+- I'm currently looking for a job in IT 🦾
+- I'm always learning something 🤓
+- I'm currently working on random Java proyects
+- My most mighty language is Java
+- I also know the basics of HTML, JavaScript and Python
+- I would escalate to a cybersecurity job 🔒
 <!--
 Here are some ideas to get you started:
 
