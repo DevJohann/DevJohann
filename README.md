@@ -42,6 +42,14 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 - My most mighty language is Java
 - I also know the basics of HTML, JavaScript and Python
 - I would escalate to a cybersecurity job 🔒
+
+---
+
+### 🧠 Languajes and tools:
+
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
+</div>
 <!--
 Here are some ideas to get you started:
 
