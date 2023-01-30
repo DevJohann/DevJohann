@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1>👨‍💻Welcome👨‍💻</h1>
 
-**DevJohann/DevJohann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Lemme introduce myself</p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
