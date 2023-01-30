@@ -8,7 +8,7 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/Johann-Felipe">
+  <a href="https://www.linkedin.com/in/johann-felipe-toncon-poveda-445159209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
