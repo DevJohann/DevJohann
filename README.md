@@ -18,7 +18,7 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?DevJohann&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DevJohann&style=flat-square&color=blue" alt=""/>
 
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
 
