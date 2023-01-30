@@ -23,8 +23,9 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 </div>
 
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
-
-<p>Firstly i'd like to thank you for visiting my profile, i hope you find it interesting</p>
+<div align="center">
+  <p>Firstly i'd like to thank you for visiting my profile, i hope you find it interesting</p>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="300"/>
