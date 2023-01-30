@@ -7,6 +7,12 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
   <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="150"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
 
 <p>Firstly i'd like to thank you for visiting my profile, i hope you find it interesting</p>
