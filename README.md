@@ -27,8 +27,12 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
 <p>Firstly i'd like to thank you for visiting my profile, i hope you find it interesting</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="300"/>
 </div>
+
+---
+
+
 
 <!--
 Here are some ideas to get you started:
