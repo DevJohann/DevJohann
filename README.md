@@ -11,7 +11,9 @@ https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif
   <a href="https://www.linkedin.com/in/johann-felipe-toncon-poveda-445159209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/channel/UCBtxPYJKskpdga3iEl7zL3Q">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
 </div>
 
