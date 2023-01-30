@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" width="100"/>
+  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="100"/>
 </div>
 
 <h1 align='center'>👨‍💻Welcome👨‍💻</h1>
